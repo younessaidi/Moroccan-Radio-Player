@@ -20,6 +20,12 @@ allowing you to listen to **popular Moroccan radio stations** directly from your
 - ⚙️ Lightweight, fast, and easy to run.
 
 ---
+## PICS
+
+![App Screenshot](https://github.com/younessaidi/Moroccan-Radio-Player/blob/main/2.png?raw=true)
+
+
+---
 
 ## 🧠 Technologies Used
 | Technology | Description |
