@@ -8,7 +8,7 @@
 
 ## 📻 About the Project
 
-🎶 **Moroccan Radio Player** is a simple yet beautiful app built with **Streamlit**,  
+ **Moroccan Radio Player** is a simple yet beautiful app built with **Streamlit**,  
 allowing you to listen to **popular Moroccan radio stations** directly from your browser!
 
 ---
